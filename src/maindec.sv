@@ -16,7 +16,7 @@ always_comb begin
     6'b101011:controls<=9'b001010000;
     6'b000100:controls<=9'b000100001;
     6'b001000:controls<=9'b101000000;
-    6'b000010:contorls<=9'b000000100;
+    6'b000010:controls<=9'b000000100;
     default:  controls<=9'bxxxxxxxxx;
     endcase
 end
