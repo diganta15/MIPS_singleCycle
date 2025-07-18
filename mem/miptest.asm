@@ -1,5 +1,4 @@
-main:
-        addi $2,$0,5
+main:   addi $2,$0,5
         addi $3,$0,12
         addi $7,$3,-9
         or   $4,$7,$2
