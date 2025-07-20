@@ -1,0 +1,36 @@
+[*]
+[*] GTKWave Analyzer v3.3.124 (w)1999-2025 BSI
+[*] Sun Jul 20 18:53:30 2025
+[*]
+[dumpfile] "/home/digantadas/code/verilog/mips/single_cycle/dump.vcd"
+[dumpfile_mtime] "Sun Jul 20 18:44:33 2025"
+[dumpfile_size] 16846
+[savefile] "/home/digantadas/code/verilog/mips/single_cycle/wave.gtkw"
+[timestart] 0
+[size] 1920 1033
+[pos] -1 -1
+*-5.823304 165 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbench.
+[treeopen] testbench.dut.
+[treeopen] testbench.dut.mips.
+[treeopen] testbench.dut.mips.dp.
+[sst_width] 290
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 306
+@28
+testbench.dut.clk
+@22
+testbench.dut.dataadr[31:0]
+testbench.dut.instr[31:0]
+@28
+testbench.dut.memwrite
+@22
+testbench.dut.pc[31:0]
+testbench.dut.readdata[31:0]
+@28
+testbench.dut.reset
+@23
+testbench.dut.writedata[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
